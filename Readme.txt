@@ -12,3 +12,7 @@ Este proyecto es realizado por:
 - Santiago Urrego
 - Camilo Ibañez.
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
